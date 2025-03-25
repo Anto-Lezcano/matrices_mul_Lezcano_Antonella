@@ -28,7 +28,7 @@ Node.js
 Clona este repositorio o descarga el archivo.
 
 git clone https://github.com/Anto-Lezcano/matrices_mul_Lezcano_Antonella.git
-cd registro-personas
+cd M-M-PY-JS
 
 Asegúrate de estar en la carpeta donde se encuentra el código.
 
